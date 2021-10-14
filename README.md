@@ -49,8 +49,8 @@ This is a POC(Proof of concept) kind-of project. The data used here comes up wit
     - For the last application, that is the plant disease prediction application, the user can input an image of a diseased plant leaf, and the application will predict what disease it is and will also give a little background about the disease and suggestions to cure it.
 
 ## DATA SOURCE 📊
-- [Crop recommendation dataset ](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) (custom built dataset)
-- [Fertilizer suggestion dataset](https://github.com/Gladiator07/Harvestify/blob/master/Data-processed/fertilizer.csv) (custom built dataset)
+- [Crop recommendation dataset ](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset)
+- [Fertilizer suggestion dataset](https://github.com/Gladiator07/Harvestify/blob/master/Data-processed/fertilizer.csv)
 - [Disease detection dataset](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
 
 ## Notebooks 📓
